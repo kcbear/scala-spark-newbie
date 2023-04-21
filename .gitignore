@@ -1,0 +1,4 @@
+/hello-world-template/.idea/*
+/hello-world-template/target/**
+/hello-world-template/project/target/**
+/hello-world-template/project/project/**
